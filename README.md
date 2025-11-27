@@ -3,6 +3,8 @@
 ### 👨‍💻 About Me
 I am a 17-year-old student and technology enthusiast based in India. My journey is defined by a curiosity for how things work—from the logic of **C++** to the vast potential of **Cloud Computing** and **Generative AI**.
 
+*Currently at** Rathtala Fingapara High School HS **for 10+2 PCM *
+
 * 🔭 **Currently working on:** Advanced Cloud labs and AI voice agent challenges.
 * 🌱 **Currently learning:** Data Science methodologies and C++ programming.
 * 🎯 **Goals:** Pursuing a B.Tech in Computer Science & aiming for the "Arcade Legend" tier in Google Cloud.
@@ -10,7 +12,7 @@ I am a 17-year-old student and technology enthusiast based in India. My journey 
 ### 🏆 Key Achievements
 * **Google Cloud Arcade Facilitator 2025:** Reached **Milestone 3** (Cohort 2).
 * **Gen AI Academy 2.0:** Active participant and top-tier achiever.
-* **Tata Building India Essay Competition:** 1st Rank (Senior Level).
+* **Tata Building India Essay Competition:** 1st Rank in School (Senior Level).
 
 ### 🛠️ Tech Stack & Interests
 * **Languages:** C++, Python (Learning)
