@@ -21,3 +21,5 @@ I am a 17-year-old technology enthusiast and a **Class 11 (10+1 PCM)** student a
 When I'm not coding or studying for JEE, I'm crafting professional content on LinkedIn or competing in AI write-offs!
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/kaustav-chowdhury-771164397?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+[See my Credly Badge Wallet](https://credly.com/users/kaustav-chowdhury.1bb65164)
