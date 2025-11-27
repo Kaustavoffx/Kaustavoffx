@@ -22,7 +22,6 @@ When I'm not coding or studying for JEE, I'm crafting professional content on Li
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/kaustav-chowdhury-771164397?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-[See my Cloud Skills Boost profile]
-(https://www.skills.google/public_profiles/9ed16b87-1e8e-49bf-a39f-77920f83b38d)
+[See my Cloud Skills Boost profile](https://www.skills.google/public_profiles/9ed16b87-1e8e-49bf-a39f-77920f83b38d)
 
 [See my Credly Badge Wallet](https://credly.com/users/kaustav-chowdhury.1bb65164)
