@@ -3,7 +3,7 @@
 ### 👨‍💻 About Me
 I am a 17-year-old technology enthusiast and a **Class 11 (10+1 PCM)** student at **Rathtala Fingapara High School (HS)**. My journey is defined by a curiosity for how things work—from the logic of **C++** to the vast potential of **Cloud Computing** and **Generative AI**.
 
-* 🔭 **Currently working on:** Advanced Cloud labs and AI voice agent challenges.
+* 🔭 **Currently working on:** Advanced Cloud labs and AI voice agent challenges. With over 102000 points In Cloud Skills Boost 
 * 🌱 **Currently learning:** Data Science methodologies and C++ programming.
 * 🎯 **Goals:** Pursuing a B.Tech in Computer Science & aiming for the "Arcade Legend" tier in Google Cloud.
 
